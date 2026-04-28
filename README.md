@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm computer science fresher student in Thailand. I'm really passionate in software development. My programming languages are java, kotlin, C#, javascript and the tools such as  android studio, jetpack compose, firebase.
+I'm computer science fresher student in Thailand. I'm really passionate in software development. My programming languages are java, kotlin, javascript and the tools such as  android studio, jetpack compose, firebase.
 
 
 ## 🌐 Socials:
